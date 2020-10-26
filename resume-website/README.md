@@ -1,6 +1,8 @@
 # ResumeWebsite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+Node version used is 10.22.1
+Npm version used is 6.14.6
 
 ## Development server
 
