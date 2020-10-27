@@ -1,16 +1,15 @@
 .header {
-    max-width: 960px; 
-    margin: auto; 
+  
     position: relative;
 
     &__text {
         &--left {
             position: absolute;
-            left: 20px;
+            left: 0px;
         }
         &--right {
             position: absolute;
-            right: 20px;
+            right: 0px;
         }
     }
 }
