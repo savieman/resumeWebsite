@@ -1,15 +1,10 @@
 .header {
-  
-    position: relative;
-
     &__text {
         &--left {
-            position: absolute;
-            left: 0px;
+            float: left;
         }
         &--right {
-            position: absolute;
-            right: 0px;
+            float: right;
         }
     }
 }
