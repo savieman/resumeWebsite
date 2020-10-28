@@ -1,0 +1,10 @@
+.header {
+    &__text {
+        &--left {
+            float: left;
+        }
+        &--right {
+            float: right;
+        }
+    }
+}
